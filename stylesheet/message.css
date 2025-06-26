@@ -1,0 +1,12 @@
+body {
+     display: flex;
+     gap: 20px;
+     align-items: center;
+     justify-content: center;
+     flex-direction: column;
+     min-height: 100vh;
+}
+img {
+   display: block;
+   margin: auto;
+}

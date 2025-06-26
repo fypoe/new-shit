@@ -1,1 +1,27 @@
-
+body {
+	background-color: black;
+	color: white;
+	font-family: "Monospace", serif;
+}
+div.main {
+	margin: auto;
+}
+img.logo {
+	display: block;
+	margin: auto;
+}
+span.shit {
+	color: purple;
+	font-size: 20px;
+}
+span.warn {
+	font-size: 20px;
+}
+a {
+	text-decoration: none;
+	color: yellow;
+}
+img.meme {
+	display: block;
+	margin: auto;
+}
